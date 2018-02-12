@@ -11,4 +11,4 @@ check_page_installed_pgdir() succeeded!
 Welcome to Chaomaer's minimal OS
 Welcome to the JOS kernel monitor!
 Type 'help' for a list of commands.
-qemu: terminating on signal 15 from pid 12192
+qemu: terminating on signal 15 from pid 17183
