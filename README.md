@@ -12,3 +12,4 @@ This will contain two major parts, one is lab code, the other is analysis.
 1. lab1:[Booting a PC]()
 2. lab2:[Memory Management]()
 3. lab3:[User Environments]()
+4. lab4:[Preemptive Multitasking]()
